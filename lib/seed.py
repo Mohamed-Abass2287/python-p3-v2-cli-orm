@@ -23,3 +23,5 @@ def seed_database():
 
 seed_database()
 print("Seeded database")
+
+# print("Departments:")
